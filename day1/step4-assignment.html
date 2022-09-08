@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+      function back(source){
+            document.getElementsByClassName('container')[0].style.backgroundColor = source.value
+           // var items = document. getElementsByClassName('container'); // get all the elements 
+          // for(var i = 0; i < items. length; i++){ 
+             // items[0]. style. backgroundColor = source.value; 
+          }
+
+    
+      function font(source){
+        document.getElementsByClassName('container')[0].style.color = source.value
+            //var items = document. getElementsByClassName('container'); // get all the elements 
+          // for(var i = 0; i < items. length; i++){ 
+              //items[0]. style.color = source.value; 
+          }   
+    </script>
+    
+
+</head>
+<body>`
+    <label>background
+        <input type="color" onchange="back(this)">
+    </label>
+    <br>
+    <label>font
+        <input type="color" onchange="font(this)">
+    </label>
+        <div class="container" >
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima nisi tempora impedit quidem, laboriosam non maiores laborum, maxime, praesentium amet in? Dolor, fugiat blanditiis temporibus illo animi quo dolorem consectetur!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima nisi tempora impedit quidem, laboriosam non maiores laborum, maxime, praesentium amet in? Dolor, fugiat blanditiis temporibus illo animi quo dolorem consectetur!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima nisi tempora impedit quidem, laboriosam non maiores laborum, maxime, praesentium amet in? Dolor, fugiat blanditiis temporibus illo animi quo dolorem consectetur!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima nisi tempora impedit quidem, laboriosam non maiores laborum, maxime, praesentium amet in? Dolor, fugiat blanditiis temporibus illo animi quo dolorem consectetur!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima nisi tempora impedit quidem, laboriosam non maiores laborum, maxime, praesentium amet in? Dolor, fugiat blanditiis temporibus illo animi quo dolorem consectetur!
+    </div>
+</body>
+</html>

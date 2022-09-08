@@ -1,0 +1,42 @@
+<!--either can use ! or html:5-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>USER REG FORM </title>
+</head>
+<body>
+    <h1>Registration Form </h1>
+    <form action="#" method="get">
+    <table border="5">
+        <tbody>
+        <tr>
+            <th>User Name</th>
+            <td><input autofocus name="uname" required placeholder="Enter Fast" type="text"/></td>
+        </tr>
+        <tr>
+            <th>User Email</th>
+            <td><input name="email" required pattern="\S+@\S+\.\S+" placeholder="Dont Make me wait" type="email"/></td>
+        </tr>
+        <tr>
+            <th>User Phone</th>
+            <td><input  name="Phone" title="###-####-#####" pattern="\d{3}-\d{4}-\d{5}" required placeholder="Okay Bye" type="tel"/></td>
+        </tr>
+        <tr>
+            <th>&nbsp;</th>
+            <td><input type="submit" value="Register"></td>
+        </tr>
+        </tbody>
+    </table>
+    </form>
+    <datalist id="roles"> 
+        <option value="Designer"></option>
+        <option value="Developer"></option>
+        <option value="consultant"></option>
+        <option value="PManager"></option>
+    </datalist>
+    <input list="roles" type="list">
+</body>
+</html>
