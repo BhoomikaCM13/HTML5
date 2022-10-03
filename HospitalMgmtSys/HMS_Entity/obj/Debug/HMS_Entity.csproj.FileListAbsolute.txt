@@ -1,0 +1,6 @@
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Entity\bin\Debug\HMS_Entity.dll
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Entity\bin\Debug\HMS_Entity.pdb
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Entity\obj\Debug\HMS_Entity.csproj.AssemblyReference.cache
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Entity\obj\Debug\HMS_Entity.csproj.CoreCompileInputs.cache
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Entity\obj\Debug\HMS_Entity.dll
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Entity\obj\Debug\HMS_Entity.pdb

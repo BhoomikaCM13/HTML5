@@ -1,0 +1,11 @@
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Business\obj\Debug\HMS_Business.csproj.AssemblyReference.cache
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Business\obj\Debug\HMS_Business.csproj.CoreCompileInputs.cache
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Business\bin\Debug\HMS_Business.dll
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Business\bin\Debug\HMS_Business.pdb
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Business\bin\Debug\HMS_Data.dll
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Business\bin\Debug\HMS_Entity.dll
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Business\bin\Debug\HMS_Data.pdb
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Business\bin\Debug\HMS_Entity.pdb
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Business\obj\Debug\HMS_Business.csproj.CopyComplete
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Business\obj\Debug\HMS_Business.dll
+D:\BHOOMIKA\C#\HospitalMgmtSys\HMS_Business\obj\Debug\HMS_Business.pdb

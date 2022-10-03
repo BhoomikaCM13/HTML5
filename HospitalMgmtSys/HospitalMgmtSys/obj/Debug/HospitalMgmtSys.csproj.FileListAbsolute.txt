@@ -1,0 +1,15 @@
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\obj\Debug\HospitalMgmtSys.csproj.AssemblyReference.cache
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\obj\Debug\HospitalMgmtSys.csproj.SuggestedBindingRedirects.cache
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\obj\Debug\HospitalMgmtSys.csproj.CoreCompileInputs.cache
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\bin\Debug\HospitalMgmtSys.exe.config
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\bin\Debug\HospitalMgmtSys.exe
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\bin\Debug\HospitalMgmtSys.pdb
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\bin\Debug\HMS_Business.dll
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\bin\Debug\HMS_Entity.dll
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\bin\Debug\HMS_Data.dll
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\bin\Debug\HMS_Business.pdb
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\bin\Debug\HMS_Entity.pdb
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\bin\Debug\HMS_Data.pdb
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\obj\Debug\HospitalMgmtSys.csproj.CopyComplete
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\obj\Debug\HospitalMgmtSys.exe
+D:\BHOOMIKA\C#\HospitalMgmtSys\HospitalMgmtSys\obj\Debug\HospitalMgmtSys.pdb
